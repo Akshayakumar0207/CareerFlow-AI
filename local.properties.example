@@ -1,0 +1,14 @@
+# Supabase Configuration
+supabase.url=https://your-project.supabase.co
+supabase.anon_key=your-anon-key-here
+
+# Gemini API Key
+gemini.api_key=your-gemini-api-key-here
+
+# Gmail API Credentials
+gmail.client_id=your-gmail-client-id.apps.googleusercontent.com
+
+# Android SDK Location
+sdk.dir=/Users/your-username/Library/Android/sdk
+# For Windows: sdk.dir=C:\Users\your-username\AppData\Local\Android\sdk
+# For Linux: sdk.dir=/home/your-username/Android/Sdk

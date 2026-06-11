@@ -1,0 +1,59 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+*.so
+*.zip
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# AS/IDE
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Android Studio
+.gradle
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+*.key
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+bin/
+out/
+
+# Gradle
+gradle-app.setting
+
+# MacOS
+.DS_Store
+
+# Node
+node_modules/
+
+# yarn
+yarn-error.log
